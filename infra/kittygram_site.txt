@@ -1,0 +1,5 @@
+IP: 51.250.31.152;
+name_taski: https://zadachi.3utilities.com/;
+name_kittygram: https://kotiki.zapto.org/;
+login: yc-user;
+password: admin;
